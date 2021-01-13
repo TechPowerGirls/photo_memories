@@ -9,8 +9,7 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="photomemories"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA-MC5JsiY2mhZ6rB7YD6Xpt2NvoYxnV8k"/>
+        
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
