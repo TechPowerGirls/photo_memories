@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427600361118",
+    "project_id": "photo-memories-6c5d1",
+    "storage_bucket": "photo-memories-6c5d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427600361118:android:b8c2d837388ee38b2cad8f",
+        "android_client_info": {
+          "package_name": "trynew.photomemories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427600361118-st4e19k8kpsjdtiqigkip9j8n1cvh5dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR8593BH7QiqJn3crq23GrmDCWCsn1WgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427600361118-st4e19k8kpsjdtiqigkip9j8n1cvh5dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
